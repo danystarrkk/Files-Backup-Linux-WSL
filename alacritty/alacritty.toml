@@ -1,0 +1,60 @@
+import = ["C:/Users/danys/Documents/themes/nordic.toml"]
+
+live_config_reload = true
+working_directory = "C:/Users/danys/Documents"
+
+[colors]
+draw_bold_text_with_bright_colors = true
+
+[cursor]
+style = "Beam"
+
+[font]
+size = 10.0
+
+[font.bold]
+family = "FiraCode Nerd Font"
+style = "Bold"
+
+[font.bold_italic]
+family = "FiraCode Nerd Font"
+style = "Bold Italic"
+
+[font.italic]
+family = "FiraCode Nerd Font"
+style = "Italic"
+
+[font.normal]
+family = "FiraCode Nerd Font"
+style = "Regular"
+
+[font.offset]
+x = 0
+y = 0
+
+[scrolling]
+history = 5000
+
+[shell]
+program = "powerShell"
+
+[window]
+dynamic_padding = false
+opacity = 1.0
+title = "Alacritty"
+
+[window.class]
+general = "Alacritty"
+instance = "Alacritty"
+
+[window.dimensions]
+columns = 130
+lines = 32
+
+[window.padding]
+x = 6
+y = 6
+
+[window.position]
+x = 0
+y = 0
